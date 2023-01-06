@@ -1,0 +1,10 @@
+package dev.syntax.step01.primitive;
+
+public class CookieTest {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package dev.syntax;
+
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+
+@NoArgsConstructor
+@AllArgsConstructor
+public class Book {
+	private String name;
+	private String author;
+}

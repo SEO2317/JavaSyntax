@@ -1,0 +1,8 @@
+package dev.syntax.step01.primitive;
+
+public class ImmutableCookie {
+	private int salt;
+	private String butter;
+	
+	
+}

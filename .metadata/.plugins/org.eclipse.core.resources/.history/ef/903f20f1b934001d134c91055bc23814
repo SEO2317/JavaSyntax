@@ -1,0 +1,13 @@
+package dev.syntax;
+
+public class BookTest {
+
+	public static void main(String[] args) {
+		Book b1  =  new Book();
+		
+		b1.setName("노인과 바다");
+		b1.setName("헤밍웨이");
+
+	}
+
+}

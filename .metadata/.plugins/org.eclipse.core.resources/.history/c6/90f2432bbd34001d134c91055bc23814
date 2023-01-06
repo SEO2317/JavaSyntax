@@ -1,0 +1,12 @@
+package dev.syntax;
+
+public class CarTest {
+
+	public static void main(String[] args) {
+		Car mustang = new Car.Builder().name("포드 머스탱").brand("포드").build();
+		
+		System.out.println(mustang);
+
+	}
+
+}

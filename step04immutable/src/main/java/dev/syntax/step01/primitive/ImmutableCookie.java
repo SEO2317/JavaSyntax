@@ -1,0 +1,26 @@
+package dev.syntax.step01.primitive;
+
+public class ImmutableCookie {
+	private final int salt;
+	private final String butter;
+	
+	public ImmutableCookie(int salt, String butter) {
+		super();
+		this.salt = salt;
+		this.butter = butter;
+	}
+	
+//	public void setSalt(int salt) {
+//		this.salt = salt;
+//	}
+
+	public int getSalt() {
+		return salt;
+	}
+
+	public String getButter() {
+		return butter;
+	}
+	
+	
+}

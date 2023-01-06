@@ -1,0 +1,6 @@
+package dev.syntax.step01;
+
+public class Apple {
+	String Color;
+	int weight;
+}
